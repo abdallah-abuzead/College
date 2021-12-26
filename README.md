@@ -28,9 +28,9 @@ A new Flutter project.
   <img src="https://github.com/abdallah-abuzead/Images/blob/main/College/1.png" width="230" height="450">
         &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/abdallah-abuzead/Images/blob/main/College/2.png" width="230" height="450">
+  <br><br><br><br><br><br>
+  <img src="https://github.com/abdallah-abuzead/Images/blob/main/readme-end-banner.png">
+  
 </p>
 
-<br><br>
-
-![End Banner](https://github.com/abdallah-abuzead/Images/blob/main/readme-end-banner.png)
 

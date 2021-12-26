@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 # College
 Mobile app that manages collage halls and schedules (using flutter)
 =======
-# college
 
 A new Flutter project.
 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803255769489",
+    "project_id": "college-86dd5",
+    "storage_bucket": "college-86dd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803255769489:android:975d17c0690c6027986230",
+        "android_client_info": {
+          "package_name": "com.abuzead.college"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803255769489-qgtrq78ufqfum6kerb03tqvdchv05upb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCseVeKYof9Xv6_tM-BZisf-NLSHIA2q4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803255769489-qgtrq78ufqfum6kerb03tqvdchv05upb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
